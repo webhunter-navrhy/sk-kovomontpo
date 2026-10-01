@@ -98,6 +98,6 @@
   });
   f.addEventListener('submit', e => {
     e.preventDefault();
-    msg.textContent = 'Toto je náhľad webu – v hotovej verzii sa dopyt aj s prílohami odošle priamo na kovomontpo@kovomontpo.sk.';
+    msg.textContent = 'Toto je náhľad webu – formulár bude funkčný v hotovej verzii.';
   });
 })();
